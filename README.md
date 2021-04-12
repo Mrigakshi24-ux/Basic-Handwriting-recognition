@@ -1,1 +1,1 @@
-# Basic-Handwriting-recognition
+# Basic-Handwriting-Recognition
